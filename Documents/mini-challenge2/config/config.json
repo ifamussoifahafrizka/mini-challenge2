@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ifamussoifahafrizka",
+    "password": "afrizka99",
+    "database": "mini_challenge_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ifamussoifahafrizka",
+    "password": "afrizka99",
+    "database": "mini_challenge_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ifamussoifahafrizka",
+    "password": "afrizka99",
+    "database": "mini_challenge_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
